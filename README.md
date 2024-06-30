@@ -10,9 +10,17 @@ The Web Honeypot simulates a vulnerable website to attract and analyze web-based
 
 #### Features
 
-- **Logging**: Records all HTTP requests and responses, including IP addresses, session details, user agents, user IDs, paths visited and keystrokes through the website.
-- **File Analysis**: It also analyzes the file uploaded by the attacker to check whether it is malicious and further extracts metadata.
-- **Dashboard**: Provides a dashboard for real-time monitoring
+**Web Logging**
+- Records all HTTP requests and responses
+- Logs IP addresses, session details, user agents, user IDs, and paths visited
+- Captures keystrokes through the website
+
+**File Analysis**
+- Analyzes files uploaded by attackers to check for malicious content
+- Extracts metadata from the uploaded files
+
+**Dashboard**
+- Provides a dashboard for real-time monitoring
 
 ### Network Honeypot
 
@@ -20,8 +28,37 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 
 #### Features
 
-- **Logging**: Captures and logs all network traffic IP addresses, Auth attempts etc via FTP or SSH services (whichever you run).
-- **Deceptive Environment**: It has some deceptive environment where attackers can be trapped.
+**Network Logging**
+- Captures and logs all network traffic
+- Records IP addresses and authentication attempts via FTP or SSH services (whichever you run)
+
+**Deceptive Environment**
+- Creates a deceptive environment to trap attackers
+- Simulates various network services to attract malicious activity
+
+  ## Installation
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/repo/HoneyGuard.git
+    cd honeypot
+    ```
+
+2. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Configure the honeypot:**
+      ```bash
+    python manage.py migrate
+    python manage.py createsuperuser
+    ```
+
+4. **Start the honeypot:**
+    ```bash
+    python manage.py runserver
+    ```
 
 
 <h1 align="left">Contacts</h1>
