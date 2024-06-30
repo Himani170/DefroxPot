@@ -120,8 +120,8 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
     python manage.py runserver
     ```
 ## Dependencies
-- Apart from what is in `requirements.txt` ExifTool is also required to extract metadata from images. You can download it from the official website [https://exiftool.org]
-- Virus total has been used to check malicious content if uploaded by an attacker [https://www.virustotal.com/gui/home/upload]
+- Apart from what is in `requirements.txt` ExifTool is also required to extract metadata from images. You can visit the official website [https://exiftool.org]
+- Virus total has been used to check malicious content if uploaded by an attacker [https://www.virustotal.com]
 
 ## Usage
 
