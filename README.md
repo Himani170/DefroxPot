@@ -124,13 +124,6 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 # Dependencies
 - Apart from what is in `requirements.txt` ExifTool is also required to extract metadata from images. You can visit the official website [https://exiftool.org]
 - Virus total has been used to check malicious content if uploaded by an attacker [https://www.virustotal.com]
-  
-  **You can visit the below URLs to check authenticity of softwares.**
-  
-  `exiftool.exe` (Windows)
-  https://www.virustotal.com/gui/file/e9bfbb1ae99f3b5587f926393c3e9ccd86ad7e03a779a06f5e68601a6a85a714
-  `exiftool` (Linux)
-  https://www.virustotal.com/gui/file/4827ade560b85f0877c635fd7e32144e9196f4fa256cc504c42f8593cc79a32b
 
 # Usage
 ### Website
@@ -146,11 +139,11 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/9e38b989-4179-46d7-a830-0544284b5340)
 
-![image](https://github.com/incoggeek/DefroxPot/assets/145888193/0ee3b83a-3583-4811-9dac-6e759fc2d1e4)
+![image](https://github.com/incoggeek/DefroxPot/assets/145888193/ea94fe79-2bd3-4c7b-b940-f3d9a15d21c2)
 
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/cf11e27e-cca1-4ceb-9939-aba62996fe48)
 
-![image](https://github.com/incoggeek/DefroxPot/assets/145888193/c34fea37-835b-44a1-9128-1f82b545da22)
+![image](https://github.com/incoggeek/DefroxPot/assets/145888193/d9f527a1-febc-41e5-8a03-237fadc0309c)
 
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/e8f1a06a-bb38-4838-94a5-207e8445b4be)
 
