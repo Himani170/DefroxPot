@@ -42,7 +42,7 @@
 
 ---
 
-**[<kbd> <br> Categories <br> </kbd>][Variants]** 
+**[<kbd> <br> Variants <br> </kbd>][Variants]** 
 **[<kbd> <br> Install <br> </kbd>][Install]**
 **[<kbd> <br> Dependencies <br> </kbd>][Dependencies]** 
 **[<kbd> <br> Usage <br> </kbd>][Usage]** 
