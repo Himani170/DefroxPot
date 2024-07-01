@@ -51,12 +51,12 @@
 
 ---
 
-[Variants]: ##Variants
-[Install]: ##Installation
-[Dependencies]: ##Dependencies
-[Usage]: ##Usage
-[Screenshots]: ##Screenshots
-[Contributors]: ##Contributors
+[Variants]: #Variants
+[Install]: #Installation
+[Dependencies]: #Dependencies
+[Usage]: #Usage
+[Screenshots]: #Screenshots
+[Contributors]: #Contributors
 
 </div>
 
