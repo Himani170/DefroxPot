@@ -53,10 +53,10 @@
 
 [Variants]: ##Variants
 [Install]: ##Installation
-[Dependencies]: #Dependencies
-[Usage]: #Usage
-[ScreenShots]: #ScreenShots
-[Contributors]: #Contributors
+[Dependencies]: ##Dependencies
+[Usage]: ##Usage
+[ScreenShots]: ##ScreenShots
+[Contributors]: ##Contributors
 
 </div>
 
@@ -119,11 +119,20 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
     ```bash
     python manage.py runserver
     ```
+   You will receive a URL with port 8000. Open this URL in your browser to access the admin panel.
+   
 ## Dependencies
 - Apart from what is in `requirements.txt` ExifTool is also required to extract metadata from images. You can visit the official website [https://exiftool.org]
 - Virus total has been used to check malicious content if uploaded by an attacker [https://www.virustotal.com]
 
 ## Usage
+### Website
+- Navigate to the `Setup` tab and launch the web setup. You will receive a URL with port 5000 that is intended to be accessed by an attacker.
+- `File Analysis`, `Photo`, `Keylogger` and `Website` tabs belong to Web honeypot. You can navigate to check logs.
+
+### Network
+- Navigate to the `Setup` tab and launch the network setup. The `ssh` and `ftp` will be started that is intended to be accessed by an attacker.
+- `Network` tabs belong to network honeypot. You can navigate to check logs.
 
 ## Screenshots
 
