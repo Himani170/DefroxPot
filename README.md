@@ -168,7 +168,7 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 <p><a href="https://razorpay.me/@technicalnavigator" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/122822828/216838288-a946ef91-f215-4286-926f-afa71d0c3760.png" height="50" width="210" alt="Donate with paypal" /></a></p><br><be>
 <br>
   
-*This tool is currently a prototype and can be further improved. If you have more context or specific improvements in mind, I can tailor the sentence further to fit your needs*
+*This tool is currently a prototype and can be further improved. If you have more context or specific improvements in mind, We can tailor the further requirements to fit your needs*
 <div align="center">
     <h1 id="Contributors">Thanks To All Contributors</h1>
 
