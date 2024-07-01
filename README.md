@@ -124,6 +124,13 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 # Dependencies
 - Apart from what is in `requirements.txt` ExifTool is also required to extract metadata from images. You can visit the official website [https://exiftool.org]
 - Virus total has been used to check malicious content if uploaded by an attacker [https://www.virustotal.com]
+  
+  **You can visit the below URLs to check authenticity of softwares.**
+  
+  `exiftool.exe` (Windows)
+  https://www.virustotal.com/gui/file/e9bfbb1ae99f3b5587f926393c3e9ccd86ad7e03a779a06f5e68601a6a85a714
+  `exiftool` (Linux)
+  https://www.virustotal.com/gui/file/4827ade560b85f0877c635fd7e32144e9196f4fa256cc504c42f8593cc79a32b
 
 # Usage
 ### Website
