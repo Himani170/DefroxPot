@@ -136,11 +136,17 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 
 ## Screenshots
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/38dbccda-b44e-4bf0-8a80-3dd6e553a2b1)
+
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/9e38b989-4179-46d7-a830-0544284b5340)
+
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/0ee3b83a-3583-4811-9dac-6e759fc2d1e4)
+
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/cf11e27e-cca1-4ceb-9939-aba62996fe48)
+
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/c34fea37-835b-44a1-9128-1f82b545da22)
+
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/e8f1a06a-bb38-4838-94a5-207e8445b4be)
+
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/c12bab45-ce72-4b23-8e7c-b6734889f39b)
 
 
