@@ -60,7 +60,7 @@
 
 </div>
 
-## Variants
+# Variants
 
 ### Web Honeypot
 
@@ -94,7 +94,7 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 - Creates a deceptive environment to trap attackers
 - Simulates various network services to attract malicious activity
 
-## Installation
+# Installation
 
 1. **Clone the repository:**
     ```bash
@@ -121,11 +121,11 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
     ```
    You will receive a URL with port 8000. Open this URL in your browser to access the admin panel.
    
-## Dependencies
+# Dependencies
 - Apart from what is in `requirements.txt` ExifTool is also required to extract metadata from images. You can visit the official website [https://exiftool.org]
 - Virus total has been used to check malicious content if uploaded by an attacker [https://www.virustotal.com]
 
-## Usage
+# Usage
 ### Website
 - Navigate to the `Setup` tab and launch the web setup. You will receive a URL with port 5000 that is intended to be accessed by an attacker.
 - `File Analysis`, `Photo`, `Keylogger` and `Website` tabs belong to Web honeypot. You can navigate to check logs.
@@ -134,7 +134,7 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 - Navigate to the `Setup` tab and launch the network setup. The `ssh` and `ftp` will be started that is intended to be accessed by an attacker.
 - `Network` tabs belong to network honeypot. You can navigate to check logs.
 
-## Screenshots
+# Screenshots
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/38dbccda-b44e-4bf0-8a80-3dd6e553a2b1)
 
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/9e38b989-4179-46d7-a830-0544284b5340)
@@ -150,7 +150,7 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 ![image](https://github.com/incoggeek/DefroxPot/assets/145888193/c12bab45-ce72-4b23-8e7c-b6734889f39b)
 
 
-## Contacts
+# Contacts
 
 <p align="left">
 <a href="https://github.com/TeamDefronix"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Github.svg" width="64" height="64" alt="Github Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://www.facebook.com/defronix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="64" height="64" alt="Facebook Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/> <a href="https://twitter.com/teamdefronix"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/Twitter.svg" width="64" height="64" alt="Twitter Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/>
@@ -160,7 +160,7 @@ The Network Honeypot mimics a network environment to detect, log and analyze net
 <a href="https://www.linkedin.com/company/defronix/"><img src="https://github.com/gauravghongde/social-icons/raw/master/SVG/Color/LinkedIN.svg" width="64" height="64" alt="LinkedIN Logo"/></a> <img src="assets/misc/transparent.png" height="1" width="5"/>
 </p>
 
-## Support
+# Support
 
 <p><a href="https://www.buymeacoffee.com/metaxone" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buymeacoffee" /></a></p><br><br><br>
 <p><a href="https://paypal.me/niteshsinghhacker" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/blue.svg" height="70" width="210" alt="Donate with paypal" /></a></p><br><br><br>
