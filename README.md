@@ -46,7 +46,7 @@
 **[<kbd> <br> Install <br> </kbd>][Install]**
 **[<kbd> <br> Dependencies <br> </kbd>][Dependencies]** 
 **[<kbd> <br> Usage <br> </kbd>][Usage]** 
-**[<kbd> <br> ScreenShots <br> </kbd>][ScreenShots]** 
+**[<kbd> <br> Screenshots <br> </kbd>][ScreenShots]** 
 **[<kbd> <br> Contributors <br> </kbd>][Contributors]**
 
 ---
@@ -55,7 +55,7 @@
 [Install]: ##Installation
 [Dependencies]: ##Dependencies
 [Usage]: ##Usage
-[ScreenShots]: ##ScreenShots
+[Screenshots]: ##Screenshots
 [Contributors]: ##Contributors
 
 </div>
